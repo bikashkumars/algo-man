@@ -13,6 +13,13 @@ https://clementmihailescu.github.io/Pathfinding-Visualizer/)
 
 [algorithm visualizer org](https://algorithm-visualizer.org/)
 
-Courses
+## Courses
 
 [Coddy](https://coddy.tech/courses)
+
+## SQL
+SQL query learning
+[sqlpd](https://sqlpd.com/)
+
+[sql schema](
+https://schemaverse.com/)
